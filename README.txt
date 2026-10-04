@@ -1,0 +1,1 @@
+LONZEV bağımsız web sitesi. GitHub Pages için index.html, style.css ve script.js dosyalarını aynı klasöre yükleyin.
